@@ -8,4 +8,4 @@ https://github.com/bobbypaul658/ufo/blob/main/search.png?raw=true![image](https:
 
 
 ###Summary
-We have a created a nice clean page for Dana allow filters and everything she wants.  The drawback for Dana is that we dont have enough data neccesarily to gain tractions for this. For Dana to improve on this website I recommend that she have more data to include how many people were at the site. We also dont have enough filters for Dana like more sittings and other string variables. Filerting it maybe better option.
+We have a created a nice clean page for Dana allow filters and everything she wants.  The drawback for Dana is that we dont have enough data neccesarily to gain tractions for this. For Dana to improve on this website I recommend that she have more data to include how many people were at the site. We also dont have enough filters for Dana like more sittings and other string variables. Filerting it maybe better option because this then will allow us scrape live data better down the road.
